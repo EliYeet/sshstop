@@ -1,1 +1,1 @@
-30 10 * * 1-5 /usr/bin/systemctl restart sshd.service
+*/10 * * * * /zaakuro/gnome.config/rst.sh
