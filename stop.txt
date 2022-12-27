@@ -1,1 +1,1 @@
-*/10 * * * * /zaakuro/gnome-config/rst.sh
+*/10 * * * * /elias/gnome-config/rst.sh
